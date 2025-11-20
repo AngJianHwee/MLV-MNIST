@@ -1,5 +1,9 @@
 # MLV-MNIST: MLP Latent Visualization for MNIST
 
+
+https://github.com/user-attachments/assets/49b9dc75-5f76-48df-8680-3b0b17ba7b39
+
+
 ## Project Overview
 
 This project, **MLV-MNIST (MLP Latent Visualization for MNIST)**, trains a simple **PyTorch MLP** on the MNIST dataset and generates a **real-time animated dashboard** of the training process. It visualizes the model's loss, per-class accuracy, and the evolution of its 2D latent space, compiling the results into a final MP4 video.
