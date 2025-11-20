@@ -30,8 +30,8 @@ The project is structured to demonstrate best practices in ML engineering, empha
 
 1.  **Clone the Repository**
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/AngJianHwee/MLV-MNIST.git
+    cd MLV-MNIST
     ```
 
 2.  **Prerequisites**
